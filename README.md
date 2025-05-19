@@ -1,0 +1,1 @@
+A lightweight and efficient Python project demonstrating real-time object detection using the cutting-edge YOLOv11 models (11m.pt and 11n.pt). It includes utilities for model management, image-based detection, and live webcam integration for dynamic object recognition.
