@@ -13,9 +13,6 @@
   - [2. `yolo_checker.py`](#2-yolo_checkerpy)
   - [3. `yolo_modeldownloader.py`](#3-yolo_modeldownloaderpy)
   - [4. `yolo_opencv.py`](#4-yolo_opencvpy)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About The Project
 
