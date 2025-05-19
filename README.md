@@ -53,7 +53,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://www.google.com/search?q=https://github.com/YourUsername/YOLOv11-Object-Detector.git](https://www.google.com/search?q=https://github.com/YourUsername/YOLOv11-Object-Detector.git)
+    git clone [https://www.google.com/search?q=https://github.com/manasauti29/ObjectDetection-YOLO.git](https://www.google.com/search?q=https://github.com/manasauti29/ObjectDetection-YOLO.git)
     cd YOLOv11-Object-Detector
     ```
 2.  **Create and activate a virtual environment (recommended):**
